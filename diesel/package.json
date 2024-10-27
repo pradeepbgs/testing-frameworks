@@ -1,0 +1,12 @@
+{
+  "name": ".",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": { "@types/jsonwebtoken": "^9.0.7", "diesel-core": "^0.0.18", "jsonwebtoken": "^9.0.2" }
+}

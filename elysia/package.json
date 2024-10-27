@@ -1,0 +1,1 @@
+{ "dependencies": { "@elysiajs/cookie": "^0.8.0", "@elysiajs/jwt": "^1.1.1", "@types/jsonwebtoken": "^9.0.7", "jsonwebtoken": "^9.0.2" } }
