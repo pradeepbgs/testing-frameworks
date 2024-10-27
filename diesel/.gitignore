@@ -2,6 +2,7 @@
 
 # Logs
 /node_modules
+node_modules/
 
 logs
 _.log
